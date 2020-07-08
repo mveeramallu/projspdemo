@@ -1,3 +1,5 @@
 ## Project SP Demo
 
 Software License v1.0
+
+This software license is extended for 50 users
