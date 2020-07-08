@@ -1,3 +1,6 @@
 ## Agreement
 Start Date: 08-07-2020
 Start Date: 08-072020
+
+Terms and Conditions:
+1. User limit not to exceed 50 users
